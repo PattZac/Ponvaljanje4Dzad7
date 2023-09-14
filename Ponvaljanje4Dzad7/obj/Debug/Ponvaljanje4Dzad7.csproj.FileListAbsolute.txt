@@ -1,0 +1,8 @@
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\bin\Debug\Ponvaljanje4Dzad7.exe.config
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\bin\Debug\Ponvaljanje4Dzad7.exe
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\bin\Debug\Ponvaljanje4Dzad7.pdb
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\obj\Debug\Ponvaljanje4Dzad7.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\obj\Debug\Ponvaljanje4Dzad7.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\obj\Debug\Ponvaljanje4Dzad7.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\obj\Debug\Ponvaljanje4Dzad7.exe
+C:\Users\unkno\source\repos\Ponvaljanje4Dzad7\Ponvaljanje4Dzad7\obj\Debug\Ponvaljanje4Dzad7.pdb
